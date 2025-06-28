@@ -15,5 +15,3 @@
 <a target="_blank" href="https://www.instagram.com/buddhav_04" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <h2>Github overview 😁</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Buddhav-garg&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-<a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Buddhav-Garg&layout=compact&theme=radical" /> </a>
-
